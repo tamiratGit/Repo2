@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6ECE-1DD0
+
+ Directory of C:\Users\tamra\OneDrive\Desktop\Myproject
+
+16/08/2020  16.04    <DIR>          .
+16/08/2020  16.04    <DIR>          ..
+16/08/2020  12.11                22 index.html
+16/08/2020  12.10                 7 test1.txt
+16/08/2020  16.04                26 test2.txt
+               3 File(s)             55 bytes
+               2 Dir(s)  172ÿ068ÿ216ÿ832 bytes free
